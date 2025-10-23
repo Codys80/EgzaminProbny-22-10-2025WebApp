@@ -1,0 +1,2 @@
+{id:2,sztuk:3}
+{id:4,sztuk:1}
